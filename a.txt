@@ -1,0 +1,12 @@
+*** avoid bugs in development
+*** increase development speed
+*** additonal feature
+*** this does not run in production
+
+// data type
+// string
+// number
+// boolean
+// array
+
+// type alias is custom dat type in typescript
